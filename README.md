@@ -3,6 +3,7 @@
 - 🌱 I’m currently studying Software Engineering.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 You can reach me through my email [mshoaibanwar2001@gmail.com]
+- 🎗️ LinkedIn profile [https://linkedin.com/in/mshoaibanwar]
 
 <!---
 mshoaibanwar/mshoaibanwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
