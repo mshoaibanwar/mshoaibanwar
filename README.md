@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mshoaibanwar
-- 👀 I’m interested in web & app development and also in game development.
+- 👀 I’m interested in web (MERN) & app development (React Native & Android Studio) and also in game development (Unity 3D).
 - 🌱 I’m currently studying Software Engineering.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 You can reach me through my email [mshoaibanwar2001@gmail.com]
